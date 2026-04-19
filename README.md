@@ -1,5 +1,5 @@
 
-# In this project, I perform EDA and cleaning on cars data and compute linear regression to predict the car prices. 
+### In this project, I perform EDA and cleaning on cars data and compute linear regression to predict the car prices. 
 
 ## Statistical Analysis
 1. Computed skewness and z-score to understand the outliers. 
